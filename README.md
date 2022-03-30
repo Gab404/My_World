@@ -9,10 +9,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">My Runner</h3>
+  <h3 align="center">My World</h3>
 
   <p align="center">
-    Game with a scrolling camera in which the character must stay, while dodging obstacles.
+    Software that uses isometric projection to modulate a 3D map.
 </div>
 
 
@@ -39,7 +39,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Game with a scrolling camera in which the character must stay, while dodging obstacles.
+Software that uses isometric projection to modulate a 3d map
 
 
 Use the `Makefile` to get started.
@@ -63,11 +63,11 @@ Use the `Makefile` to get started.
 
 To start:
 
-      ./my_runner [map filpeath]
+      ./my_world [map filpeath]
 
 Help:
 
-      ./my_runner -h
+      ./my_world -h
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,4 +91,4 @@ Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/runn
 [forks-url]: https://github.com/Gab404/runner/network/members
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gabriel-guiet-dupre
-[product-screenshot]: assets/screenshot.png
+[product-screenshot]: assets/exemple.png
