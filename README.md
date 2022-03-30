@@ -77,7 +77,7 @@ Help:
 
 Gabriel GUIET-DUPRE - [in: gabriel-guiet-dupre](https://linkedin.com/in/gabriel-guiet-dupre) - gabriel.guiet-dupre@epitech.eu
 
-Project Link: [https://github.com/gab_gdp/runner](https://github.com/Gab404/My_World)
+Project Link: [https://github.com/gab_gdp/My_World](https://github.com/Gab404/My_World)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
